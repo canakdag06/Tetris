@@ -1,5 +1,5 @@
 # Tetris
-Tetris clone.
+Tetris clone with C#.
 I've got help from a youtube tutorial: https://www.youtube.com/watch?v=uZGW_unU_qM&list=PLvW0netwgVDQYR_ctNkvxldJlOW8wIb0r&index=1&ab_channel=Algodizayn
 
 ![1](https://user-images.githubusercontent.com/77192206/215358903-58985185-3d76-4435-9b2b-44e90ecfa02b.JPG)
