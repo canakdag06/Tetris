@@ -1,0 +1,52 @@
+C:\Users\Can\Desktop\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Can\Desktop\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Can\Desktop\Tetris\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Can\Desktop\Tetris\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Tetris\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Can\Desktop\Tetris\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Can\Desktop\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Tetris\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Can\Desktop\Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Can\Desktop\Tetris\Tetris - Final\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Can\Desktop\Tetris\Tetris - Final\Tetris\bin\Debug\Tetris.exe
+C:\Users\Can\Desktop\Tetris\Tetris - Final\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Can\Desktop\Tetris\Tetris - Final\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Tetris\Tetris - Final\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Can\Desktop\Tetris\Tetris - Final\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Can\Desktop\Tetris\Tetris - Final\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\Tetris\Tetris - Final\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Tetris\Tetris - Final\Tetris\obj\Debug\Tetris.exe
+C:\Users\Can\Desktop\Tetris\Tetris - Final\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Can\Desktop\Tetris\Tetris - Final2\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Can\Desktop\Tetris\Tetris - Final2\Tetris\bin\Debug\Tetris.exe
+C:\Users\Can\Desktop\Tetris\Tetris - Final2\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Can\Desktop\Tetris\Tetris - Final2\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Tetris\Tetris - Final2\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Can\Desktop\Tetris\Tetris - Final2\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Can\Desktop\Tetris\Tetris - Final2\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\Tetris\Tetris - Final2\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Tetris\Tetris - Final2\Tetris\obj\Debug\Tetris.exe
+C:\Users\Can\Desktop\Tetris\Tetris - Final2\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Can\Desktop\Tetris\Tetris - Final3\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Can\Desktop\Tetris\Tetris - Final3\Tetris\bin\Debug\Tetris.exe
+C:\Users\Can\Desktop\Tetris\Tetris - Final3\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Can\Desktop\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Can\Desktop\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Can\Desktop\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.exe
+C:\Users\Can\Desktop\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Can\Desktop\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.SplashScreen.resources
+C:\Users\Can\Desktop\Ders\Görsel Programlama\Tetris\Tetris - Final3\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Can\Desktop\Ders\Görsel Programlama\Tetris\Tetris - Final3\Tetris\bin\Debug\Tetris.exe
+C:\Users\Can\Desktop\Ders\Görsel Programlama\Tetris\Tetris - Final3\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Can\Desktop\Ders\Görsel Programlama\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\Ders\Görsel Programlama\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Can\Desktop\Ders\Görsel Programlama\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Can\Desktop\Ders\Görsel Programlama\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.SplashScreen.resources
+C:\Users\Can\Desktop\Ders\Görsel Programlama\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\Ders\Görsel Programlama\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Ders\Görsel Programlama\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.exe
+C:\Users\Can\Desktop\Ders\Görsel Programlama\Tetris\Tetris - Final3\Tetris\obj\Debug\Tetris.pdb
